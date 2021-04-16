@@ -6,7 +6,7 @@ namespace RoadBook.CsharpBasic.Chapter01.Examples
     {
         public void Run()
         {
-            //r.hi
+            //r.hii
             Console.WriteLine("Hello World");
         }
     }
